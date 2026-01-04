@@ -1,6 +1,6 @@
 # Hello GitHub 👋
 
-Hi! I'm Sneha 
+Hi! I'm Sneha!! 
 I'm a high school student exploring computer science, open source, and software development.
 
 ## 🚀 About this repository
